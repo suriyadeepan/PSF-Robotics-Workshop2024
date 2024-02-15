@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "usbasp",
+    "sketch": "projects\\01_automatic-lamp\\src.ino"
+}
