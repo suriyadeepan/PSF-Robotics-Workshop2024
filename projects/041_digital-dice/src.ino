@@ -28,8 +28,10 @@ const uint8_t celsius[] = {
   SEG_A | SEG_D | SEG_E | SEG_F   // C
 };
 
-void setup() {
+int randNum;
 
+void setup() {
+  randomSeed(analogRead(0));
 }
 
 void loop() {
@@ -38,7 +40,9 @@ void loop() {
 
 	// Set all segments ON
 	// display.setSegments(allON);
-  display.showNumberDec(314, true, 4, 4);
+  randNum = random(7);
+
+  display.showNumberDec(randNum, false, 4, 4);
 	delay(2000);
 	display.clear();
 
