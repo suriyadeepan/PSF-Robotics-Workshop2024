@@ -5,6 +5,7 @@ int LMotor_2 = 5;
 int REnable = 10;
 int LEnable = 11;
 int motor_speed = 60;
+const int ldr_thresh = 500;
 
 void setup() {
 
@@ -23,24 +24,25 @@ void setup() {
 
 void loop() {
 
-  int ldrright = digitalRead(7);
-  int ldrleft = digitalRead(8);
-  if (ldrright == 0 && ldrleft == 0) {
+  int ldrright = digitalRead(A1);
+  int ldrleft = digitalRead(A0);
+  
+  if (ldrright <= ldr_thresh && ldrleft <= ldr_thresh) {
     Serial.println("F");
     move_forward();
   }
 
-  if (ldrright == 0 && ldrleft == 1) {
+  if (ldrright > ldr_thresh && ldrleft <= ldr_thresh) {
     Serial.println("R");
     turn_right();
   }
 
-  if (ldrright == 1 && ldrleft == 0) {
+  if (ldrright <= ldr_thresh && ldrleft > ldr_thresh) {
     Serial.println("L");
     turn_left();
   }
 
-  if (ldrright == 1 && ldrleft == 1) {
+  if (ldrright < ldr_thresh && ldrleft ldr_thresh) {
     Serial.println("S");
     move_stop();
   }
