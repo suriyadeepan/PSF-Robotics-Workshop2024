@@ -24,8 +24,11 @@ void setup() {
 
 void loop() {
 
-  int ldrright = digitalRead(A1);
-  int ldrleft = digitalRead(A0);
+  int ldrright = analogRead(A1);
+  int ldrleft = analogRead(A0);
+  Serial.print(ldrleft);
+  Serial.print(" ");
+  Serial.println(ldrright);
   
   if (ldrright <= ldr_thresh && ldrleft <= ldr_thresh) {
     Serial.println("F");
@@ -42,12 +45,12 @@ void loop() {
     turn_left();
   }
 
-  if (ldrright < ldr_thresh && ldrleft ldr_thresh) {
+  if (ldrright > ldr_thresh && ldrleft > ldr_thresh) {
     Serial.println("S");
     move_stop();
   }
 
-  delay(100);
+  delay(1000);
 
 }
 
