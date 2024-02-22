@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="temperature">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="SparkFun-Sensors-MLX90614-_" modelIndex="1850887" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-sensors-mlx90614-_.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ITG-3200-v11" modelIndex="1850889" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/ITG-3200-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Humidity_and_Temperature_Sensor_RHT03_6" modelIndex="1850890" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/Humidity_and_Temperature_Sensor_RHT03.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_D.O. Circuit" modelIndex="1850891" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_D.O. Circuit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="DRV8825_breakout" modelIndex="1850892" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/DRV8825_breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pinoccio_board" modelIndex="1850893" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/pinoccio.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="grove_temperature_sensor" modelIndex="1850894" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/seeed_grove_temperature_sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ad901601e6d29266846fc9e4568504b6" modelIndex="1850895" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/Barometric Pressure Sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="d63bf67236bb974ced6c30c1d9f152a9_18" modelIndex="1850896" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/MPX2010 pressure sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SHT1x-Breakout" modelIndex="1850897" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/SHT1x-Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Sensors-LM34-" modelIndex="1850899" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-sensors-lm34-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2012BCEC1FBThermistorModuleID" modelIndex="1850901" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/thermistor_300mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="blueIOT_RevB" modelIndex="1850903" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino-BLE-LowPower-RevB-final_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_BasicIOShield" modelIndex="1850904" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/chipkit_BasicIOShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="93d4585be720f3982141f4d032f44c8e" modelIndex="1850905" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/peltier element.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Sensors-TMP102-" modelIndex="1850906" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-sensors-tmp102-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_BME280_Breakout" modelIndex="1850908" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/SparkFun_BME280_Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MPX4250AP_60bfc397c54bae166e67461339be2ca8_4" modelIndex="1850910" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/MPX4250AP pressure sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Sensors-MCP9700-SMD" modelIndex="1850911" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-sensors-mcp9700-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="blueIOT_Rc1-final" modelIndex="1850913" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/blueIOT_Rc1-final.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LM35_THT" modelIndex="1850914" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/lm35.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PowerCell-v13" modelIndex="1850915" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/PowerCell Lipo Charger Booster v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-AnalogIC-MAX6675-" modelIndex="1850916" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-analogic-max6675-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Sensors-TMP36-TO-92-KIT" modelIndex="1850918" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-sensors-tmp36-to-92-kit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TMP102_Breakout-v11" modelIndex="1850920" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/TMP102_Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="bf73a00d2ecd04be25675ebfb2d130c0" modelIndex="1850921" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/Humidity_Sensor_SHT15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_pH Circuit" modelIndex="1850923" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_pH Circuit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Sensors-TEMPERATURE-SENSOR-" modelIndex="1850924" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-sensors-temperature-sensor-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Sensors-TMP36-GT9" modelIndex="1850926" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-sensors-tmp36-gt9.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="DeadOn RTC - DS3234 Breakout-v11" modelIndex="1850928" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/DeadOn RTC - DS3234 Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="AnalogDevices_AD22100KTZ" modelIndex="1850929" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/ADI_AD22100KTZ.AnalogDevices_AD22100KTZ.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Esplora" modelIndex="1850931" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_Esplora.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pololu0002_a988" modelIndex="1850932" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/pololu0002_a988.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Analog_Digital_MUX_Breakout" modelIndex="1850933" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/Analog_Digital_MUX_Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-MAX98300-ETA+" modelIndex="1850935" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-poweric-max98300-eta_.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="L3G4200D-Breakout-v10" modelIndex="1850936" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/L3G4200D-Breakout-v10.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_PWR-SNS" modelIndex="1850937" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_PWR-SNS.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TMP36_THT" modelIndex="1850938" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/tmp36.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="DS18B20" modelIndex="1850940" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/DS18B20.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7e3598758afd7c1363215b7f0c124af8" modelIndex="1850942" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/Digital_Panel_Meter__Voltage__DMS_20PC.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LM34_THT" modelIndex="1850944" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/lm34.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun Load Sensor Combinator" modelIndex="1850946" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/SparkFun Load Sensor Combinator.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-Temp-v12" modelIndex="1850948" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/LilyPad-Temp-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="BMP085 Breakout-v13" modelIndex="1850949" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/BMP085 Breakout-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-MAX98306-ETD+" modelIndex="1850950" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-poweric-max98306-etd_.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Conductivity Circuit" modelIndex="1850951" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_Conductivity Circuit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ArduinoBluetoothMatev13" modelIndex="1850952" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/ArduinoBluetoothMatev13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="AnalogDevices_TMP01FPZ" modelIndex="1850953" path="C:/Users/suriya/Downloads/fritzing.0.9.3b.64.pc/fritzing-parts/core/ADI_TMP01.AnalogDevices_TMP01FPZ.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
